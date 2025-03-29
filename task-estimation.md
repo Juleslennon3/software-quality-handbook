@@ -51,6 +51,7 @@ Researching real developers 	experiences, a few key points emerge. When we are e
 ---
 
 ![Scrum Diagram](ScrumPic.png)
+*Figure 1: Scrum Workflow Diagram. Source: [Agile Workflow: Your Go-To Guide to an Adaptive Process](https://businessmap.io/agile/project-management/workflow)*
 
 ---
 
