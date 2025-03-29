@@ -50,6 +50,9 @@ Researching real developers 	experiences, a few key points emerge. When we are e
 
 ---
 
+![Scrum Diagram](ScrumPic.png)
+
+---
 
 
 ## Articles / References
